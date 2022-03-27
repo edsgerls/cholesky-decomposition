@@ -1,2 +1,2 @@
-# qr-algorithm
-Eigenvalues and eigenvectors using QR algorithm
+# Cholesky decomposition
+Factorization of symmetric, positive definite matrices
